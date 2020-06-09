@@ -1,0 +1,35 @@
+body{
+    background: lightblue;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1 {
+    color: rgb(28, 25, 190);
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.imagem_corpo_site{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_contato {
+    width: 100px;
+}
